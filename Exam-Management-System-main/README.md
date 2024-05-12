@@ -34,6 +34,6 @@ Email: student@gmail.com
 Password: 1234
 
 Contributor
-Author: prashanth370, mirdatilikhitha
+Author: prashanth370
 License
 This project is licensed under the MIT License.
